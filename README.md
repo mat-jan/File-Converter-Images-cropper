@@ -1,8 +1,5 @@
 # File-Converter-Images-cropper
 
-[Download converter](https://github.com/505230b4-040e-4f09-8a42-79d5bef27a2e)
-[Pobierz Konwerter](https://github.com/505230b4-040e-4f09-8a42-79d5bef27a2e)
-
 
 🇬🇧 How to use
 🔄 File Converter
